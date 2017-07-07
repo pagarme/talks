@@ -16,12 +16,40 @@ ferramentas que desenvolvedores gostam de utilizar para facilitar o fluxo de
 criar uma talk, assim como material de leitura para te auxiliar tanto a criar
 vídeos quanto palestrar.
 
+## Ferramentas
 
+### Apresentação
 
+#### Marp
 
+[Marp](https://yhatt.github.io/marp/) é um gerador de apresentações a partir de
+Markdown. Com uma sintaxe simples você consegue criar os slides, adicionar
+imagens e até emojis.
 
+Repositório no GitHub: [:octocat:](https://github.com/yhatt/marp/)
 
+Exemplos de apresentações em que ele foi utilizado:
 
+- [# 37 Terraform - Infraestrutura como Código](https://www.youtube.com/watch?v=tE1WZg9ib8k)
 
+#### Asciinema
 
+[Asciinema](https://asciinema.org/) permite que você grave o que está
+aparecendo no seu terminal e depois visualize a gravação. Com ele você não tem
+mais que gravar um video só para mostrar o que está acontecendo no seu
+terminal.
 
+Repositório no GitHub: [:octocat:](https://github.com/asciinema/asciinema)
+
+Exemplos de apresentações em que ele foi utilizado:
+
+- [# 37 Terraform - Infraestrutura como Código](https://www.youtube.com/watch?v=tE1WZg9ib8k)
+
+### Edição de vídeo
+
+#### KDEnlive
+
+Se você procura por uma ferramenta OpenSource com muitas funcionalidades para
+editar o seu video você pode utilizar o [KDEnlive](https://kdenlive.org/).
+
+Repositório no GitHub: [:octocat:](https://github.com/KDE/kdenlive)
